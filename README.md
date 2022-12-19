@@ -1,4 +1,4 @@
-### Hi, I'm Filipe Eduardo Andrade Costa, 20 years old and I'm studying computer science at the moment
+### Hi, I'm Filipe Eduardo Andrade Costa, 21 years old and I'm studying computer science at the moment
 
 - 🔭 I'm currently working on getting enough knowledge to get into my first job.
 - 💻 I usually work with C#, Python and PHP.
