@@ -7,8 +7,8 @@ University student of Computer Science
 - 📚 I also have some experience with C, Javascript and Html/CSS.
 - 🎮 I'm also learning game development with Unity.
 - 🤝 I'm looking to collaborate on interesting projects.
-<!-- - 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122 -->
 - ➕ Additional info: I'm fluent in portuguese and english, and with intermediate level of Japanese
+<!-- - 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122 -->
 
 <div align="center">
   <a href="https://github.com/Filipe-Eduardo-AC">
