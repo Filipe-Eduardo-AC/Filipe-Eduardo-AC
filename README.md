@@ -13,7 +13,7 @@ University student of Computer Science
 <div align="center">
   <a href="https://github.com/Filipe-Eduardo-AC">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Filipe-Eduardo-AC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="[https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filipe-Eduardo-AC&layout=compact&langs_count=5&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Eduardo-AC&layout=compact&langs_count=6&theme=dark&hide=TeX)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Eduardo-AC&layout=compact&langs_count=6&theme=dark&hide=TeX"/>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
