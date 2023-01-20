@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Filipe Eduardo!
+### Hi, I'm Filipe Eduardo!
 
 University student of Computer Science
 
