@@ -7,13 +7,13 @@ University student of Computer Science
 - 📚 I also have some experience with C, Javascript and Html/CSS.
 - 🎮 I'm also learning game development with Unity.
 - 🤝 I'm looking to collaborate on interesting projects.
-<!-- - 📫 Contact info: filipeeacosta@gmail.com or Discord: Filipeeac#1122 -->
+- 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122
 - ➕ Additional info: I'm fluent in portuguese and english, and with intermediate level of Japanese
 
 <div align="center">
   <a href="https://github.com/Filipe-Eduardo-AC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Filipe-Eduardo-AC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-Eduardo-AC&layout=compact&langs_count=5&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Filipe-Eduardo-AC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Filipe-Eduardo-AC&layout=compact&langs_count=5&theme=dark"/>
 </div>
 
 ## 🛠 &nbsp;Tech Stack
@@ -37,7 +37,5 @@ University student of Computer Science
  <img align="center" src="https://img.shields.io/badge/-filipe__eduardo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <img align="center" src="https://img.shields.io/badge/-Filipeeac%231122-05122A?style=flat&logo=discord" alt="discord"/>
- <a href="filipeeacosta@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-filipeeacosta@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
 </p>
