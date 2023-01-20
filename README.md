@@ -37,5 +37,7 @@ University student of Computer Science
  <img align="center" src="https://img.shields.io/badge/-filipe__eduardo-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
  <img align="center" src="https://img.shields.io/badge/-Filipeeac%231122-05122A?style=flat&logo=discord" alt="discord"/>
+ <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=filipeeacosta@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-filipeeacosta@gmail.com-05122A?style=flat&logo=gmail" alt="gmail"/>
+ </a>
 </p>
