@@ -7,7 +7,7 @@ University student of Computer Science
 - 📚 I also have some experience with C, Javascript and Html/CSS.
 - 🎮 I'm also learning game development with Unity.
 - 🤝 I'm looking to collaborate on interesting projects.
-<!-- - 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122 -->
+- 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122
 - ➕ Additional info: I'm fluent in portuguese and english, and with intermediate level of Japanese
 
 <div align="center">
@@ -24,8 +24,8 @@ University student of Computer Science
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=6d4ea2)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 🌐 &nbsp;Social Links
 
