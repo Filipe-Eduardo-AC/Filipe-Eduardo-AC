@@ -2,9 +2,7 @@
 
 University student of Computer Science
 
-- 🔭 I'm currently working on getting enough knowledge to get into my first job.
 - 💻 I usually work with C#, Python and PHP.
-- 📚 I also have some experience with C, Javascript and Html/CSS.
 - 🎮 I'm also learning game development with Unity.
 - 🤝 I'm looking to collaborate on interesting projects.
 - ➕ Additional info: I'm fluent in portuguese and english, and with intermediate level of Japanese
