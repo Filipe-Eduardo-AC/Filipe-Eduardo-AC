@@ -2,8 +2,8 @@
 
 University student of Computer Science
 
-- 💻 I usually work with C#, Python and PHP.
-- 🎮 I'm also learning game development with Unity.
+- 🎮 I'm a game developer.
+- 💻 I usually work with C#, and Unity.
 - 🤝 I'm looking to collaborate on interesting projects.
 - ➕ Additional info: I'm fluent in portuguese and english, and with intermediate level of Japanese
 <!-- - 📫 Contact me: filipeeacosta@gmail.com or Discord: Filipeeac#1122 -->
@@ -17,8 +17,6 @@ University student of Computer Science
 ## 🛠 &nbsp;Tech Stack
 
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
